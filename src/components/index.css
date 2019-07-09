@@ -1,0 +1,54 @@
+body {
+    line-height: 21px;
+    font-family: Helvetica, sans-serif;
+}
+.app-header{
+    color: white;
+    background-color: black;
+}
+.banner-header img {
+    width: 100%;
+    height: 135px;
+    display: block;
+    margin: 0px;
+    border: none;
+    padding: 0px;
+    background-size: 100% 100%;
+}
+.booth {
+    font-size: 14px;
+}
+.title {
+ font-size: 20px;
+ font-weight: 600;
+}
+.area {
+    font-size: 14px;
+}
+
+.action-icons {
+    font-size: 14px;
+}
+.op-50 {
+    opacity: 0.5;
+}
+.text-tile {
+    font-size: 14px;
+}
+.about-info {
+    font-size: 14px;
+}
+.badge-outline {
+    color: black;
+    border: 1px solid #999;
+    background-color: transparent;
+}
+.intressets-items {
+    padding: 3px;
+}
+.intressets-items:nth-child(even) {
+   background: #EFF0F0;
+   
+}
+
+
